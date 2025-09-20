@@ -5,3 +5,10 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 ## CSS Framework elegido
 Para el examén se seleccionó **Bootstrap** como framework CSS.
 
+## Template usado
+Este proyecto utiliza el template **One Page Wonder v6.0.6** de  
+[Start Bootstrap](https://startbootstrap.com/theme/creative).
+
+**Licencia:** MIT License  
+[Ver licencia completa](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
+
