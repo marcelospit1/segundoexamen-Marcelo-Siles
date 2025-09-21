@@ -12,3 +12,9 @@ Este proyecto utiliza el template **One Page Wonder v6.0.6** de
 **Licencia:** MIT License  
 [Ver licencia completa](https://github.com/StartBootstrap/startbootstrap-one-page-wonder/blob/master/LICENSE)
 
+
+## Avance actual
+**Layout principal**: creado en `src/app/layout` con `header`, `nav`, `main` y `footer`. 
+**Home**: creado en `src/app/home` 
+Se configuró `app.routes.ts` para que `Layout` contenga un `<router-outlet>` en el que se carga `Home`.
+En `app.html` se declaró `<router-outlet>` para montar el sistema de rutas.
