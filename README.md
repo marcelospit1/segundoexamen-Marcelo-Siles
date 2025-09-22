@@ -18,3 +18,28 @@ Este proyecto utiliza el template **One Page Wonder v6.0.6** de
 **Home**: creado en `src/app/home` 
 Se configuró `app.routes.ts` para que `Layout` contenga un `<router-outlet>` en el que se carga `Home`.
 En `app.html` se declaró `<router-outlet>` para montar el sistema de rutas.
+
+## Ruta creada/ui
+
+**Componentes integrasdos**
+**Navbar de ejemplo:**
+
+ - Diseño moderno con navbar-dark bg-primary, menú desplegable (dropdown) y sombras.
+
+ - Totalmente responsive gracias a navbar-toggler y collapse.
+
+**Cards mejoradas:**
+
+ - Disposición en 3 columnas con row row-cols-1 row-cols-md-3 g-4.
+
+ - Cards con sombras (shadow-sm), bordes redondeados y botón de acción btn-outline-primary.
+
+**Botones:**
+
+ - Estilos btn-primary, btn-success y btn-danger en tamaño grande (btn-lg) y con sombra (shadow).
+
+ - Tecnologías utilizadas:
+
+**Navegación:**
+
+Se agregó un enlace UI Demo en el navbar de layout.html usando routerLink="/ui", permitiendo ingresar directamente desde la interfaz principal.
