@@ -70,3 +70,16 @@ Verificación offline:
 2. En DevTools → Application → Service Workers, marcar la opción Offline.
 
 3. Recargar la página: la Home continúa cargando con su contenido, estilos sin depender de Internet.
+
+### Notificación local desde la app
+
+- En la Home se añadieron dos botones:  
+  - **Permitir notificaciones**: solicita permiso al usuario usando la API `Notification.requestPermission()`.  
+  - **Probar notificación**: muestra un mensaje del sistema con título e ícono si el permiso fue concedido.
+
+- Prueba:
+  1. Compilar en modo producción con `ng build`.
+  2. Servir con `npx http-server -p 8080 -c-1 dist/segundoexamen-Marcelo-Siles/browser`.
+  3. Abrir en `http://127.0.0.1:8080`, aceptar el permiso y pulsar **Probar notificación**.
+
+Nota: tb funciona probando desde el ng serve

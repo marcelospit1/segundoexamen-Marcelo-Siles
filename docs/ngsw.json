@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758561231570,
+  "timestamp": 1758569796047,
   "index": "/segundoexamen-Marcelo-Siles/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/segundoexamen-Marcelo-Siles/favicon.ico",
         "/segundoexamen-Marcelo-Siles/index.html",
-        "/segundoexamen-Marcelo-Siles/main-T3ADDX2H.js",
+        "/segundoexamen-Marcelo-Siles/main-66BY7BZQ.js",
         "/segundoexamen-Marcelo-Siles/manifest.webmanifest",
         "/segundoexamen-Marcelo-Siles/polyfills-5CFQRCPP.js",
         "/segundoexamen-Marcelo-Siles/styles-5INURTSO.css"
@@ -83,8 +83,8 @@
     "/segundoexamen-Marcelo-Siles/img/img1.jpg": "373f2d0c8428b77a62b382ebeab2a2183c492d5e",
     "/segundoexamen-Marcelo-Siles/img/img2.jpg": "726c3c3f74fffa2b409bad6273984afed9f99883",
     "/segundoexamen-Marcelo-Siles/img/img3.jpg": "4d3f286878d89baf69049967a8612abd08bbce19",
-    "/segundoexamen-Marcelo-Siles/index.html": "1ae8ed669c01cb8b6aa525e8ba401f6a36382b7c",
-    "/segundoexamen-Marcelo-Siles/main-T3ADDX2H.js": "cc746249d9b542263594ee10ed63c2e6a98b9471",
+    "/segundoexamen-Marcelo-Siles/index.html": "70e22e8822b177b8bf2b3e2baf1f20ebbb64b877",
+    "/segundoexamen-Marcelo-Siles/main-66BY7BZQ.js": "b3738d04d9314ff4b2b80f1bc7bb960270a33c2a",
     "/segundoexamen-Marcelo-Siles/manifest.webmanifest": "cdd05d8e7505ad3460d4e545caa0a61a8dee8ec3",
     "/segundoexamen-Marcelo-Siles/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
     "/segundoexamen-Marcelo-Siles/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
