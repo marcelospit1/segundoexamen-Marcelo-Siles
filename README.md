@@ -53,3 +53,20 @@ Se agregó un enlace UI Demo en el navbar de layout.html usando routerLink="/ui"
 ## Activar PWA
 - Se añadió `@angular/pwa` para convertir la app en Progressive Web App.
 - Se configuró `provideServiceWorker` en `main.ts` con `enabled: !isDevMode()` para registrar el Service Worker.
+
+## Offline
+- Se consiguió que la página de inicio cargue sin conexión, gracias a la activación del Service Worker y al  precaching automático de Angular.
+
+- ng build --configuration=production 
+Genera los archivos optimizados (HTML, CSS, JS e imágenes clave) en la carpeta dist/segundoexamen-Marcelo-Siles/browser.
+
+Prueba en servidor local:
+npx http-server -p 8080 -c-1 dist/segundoexamen-Marcelo-Siles/browser
+Permite servir la aplicación en modo producción para verificar su comportamiento sin conexión.
+
+Verificación offline:
+1. Abrir la app en http://127.0.0.1:8080.
+
+2. En DevTools → Application → Service Workers, marcar la opción Offline.
+
+3. Recargar la página: la Home continúa cargando con su contenido, estilos sin depender de Internet.
