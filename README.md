@@ -48,3 +48,8 @@ Se agregó un enlace UI Demo en el navbar de layout.html usando routerLink="/ui"
 - Se añadió `title` dinámico en cada ruta.
 - Se verificó que el template cumpla con accesibilidad (a11y)
 - Textos alternativos descriptivos en algunas imágenes
+
+
+## Activar PWA
+- Se añadió `@angular/pwa` para convertir la app en Progressive Web App.
+- Se configuró `provideServiceWorker` en `main.ts` con `enabled: !isDevMode()` para registrar el Service Worker.
