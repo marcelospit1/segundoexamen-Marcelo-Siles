@@ -13,7 +13,7 @@ export const routes: Routes = [
             component:Home,
             title:'Inicio'
         },
-         { path: 'ui', component: Ui, title: 'Componentes' }
+         { path: 'ui', component: Ui, title: 'Componentes de Ui' }
     ]
    }
 ];

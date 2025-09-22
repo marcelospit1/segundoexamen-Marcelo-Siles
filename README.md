@@ -20,7 +20,6 @@ Se configuró `app.routes.ts` para que `Layout` contenga un `<router-outlet>` en
 En `app.html` se declaró `<router-outlet>` para montar el sistema de rutas.
 
 ## Ruta creada/ui
-
 **Componentes integrasdos**
 **Navbar de ejemplo:**
 
@@ -43,3 +42,9 @@ En `app.html` se declaró `<router-outlet>` para montar el sistema de rutas.
 **Navegación:**
 
 Se agregó un enlace UI Demo en el navbar de layout.html usando routerLink="/ui", permitiendo ingresar directamente desde la interfaz principal.
+
+## Ruteo y accesibilidad básica
+- Se comprobó y ajustó la navegación entre `/` y `/ui`
+- Se añadió `title` dinámico en cada ruta.
+- Se verificó que el template cumpla con accesibilidad (a11y)
+- Textos alternativos descriptivos en algunas imágenes
