@@ -1,0 +1,111 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758561231570,
+  "index": "/segundoexamen-Marcelo-Siles/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/segundoexamen-Marcelo-Siles/favicon.ico",
+        "/segundoexamen-Marcelo-Siles/index.html",
+        "/segundoexamen-Marcelo-Siles/main-T3ADDX2H.js",
+        "/segundoexamen-Marcelo-Siles/manifest.webmanifest",
+        "/segundoexamen-Marcelo-Siles/polyfills-5CFQRCPP.js",
+        "/segundoexamen-Marcelo-Siles/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/segundoexamen-Marcelo-Siles/assets/img/bg-masthead.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/1.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/2.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/3.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/4.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/5.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/6.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/1.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/2.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/3.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/4.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/5.jpg",
+        "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/6.jpg",
+        "/segundoexamen-Marcelo-Siles/icons/icon-128x128.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-144x144.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-152x152.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-192x192.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-384x384.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-512x512.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-72x72.png",
+        "/segundoexamen-Marcelo-Siles/icons/icon-96x96.png",
+        "/segundoexamen-Marcelo-Siles/img/img1.jpg",
+        "/segundoexamen-Marcelo-Siles/img/img2.jpg",
+        "/segundoexamen-Marcelo-Siles/img/img3.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/segundoexamen-Marcelo-Siles/assets/img/bg-masthead.jpg": "2dd96931bb61b41b4fef33c9370c956cc4bc1908",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/1.jpg": "baf937a072fae4124379f675a1e9a3bdf543bca1",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/2.jpg": "98af5ab11e41a766a5be21f4a36cfa91f921c7d1",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/3.jpg": "2ecbf4bb300ce1c2b3db7975e5b920a8bc0a2a73",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/4.jpg": "c7957f5caba95624a866268873441c84fa80fab7",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/5.jpg": "26ec2cfe1c03f44e4a0009bda5bc97cc9fef25ac",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/fullsize/6.jpg": "3eeeed59320dff63adde7a35764a84e67bcb3610",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/1.jpg": "baf937a072fae4124379f675a1e9a3bdf543bca1",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/2.jpg": "98af5ab11e41a766a5be21f4a36cfa91f921c7d1",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/3.jpg": "2ecbf4bb300ce1c2b3db7975e5b920a8bc0a2a73",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/4.jpg": "c7957f5caba95624a866268873441c84fa80fab7",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/5.jpg": "26ec2cfe1c03f44e4a0009bda5bc97cc9fef25ac",
+    "/segundoexamen-Marcelo-Siles/assets/img/portfolio/thumbnails/6.jpg": "3eeeed59320dff63adde7a35764a84e67bcb3610",
+    "/segundoexamen-Marcelo-Siles/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/segundoexamen-Marcelo-Siles/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/segundoexamen-Marcelo-Siles/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/segundoexamen-Marcelo-Siles/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/segundoexamen-Marcelo-Siles/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/segundoexamen-Marcelo-Siles/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/segundoexamen-Marcelo-Siles/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/segundoexamen-Marcelo-Siles/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/segundoexamen-Marcelo-Siles/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/segundoexamen-Marcelo-Siles/img/img1.jpg": "373f2d0c8428b77a62b382ebeab2a2183c492d5e",
+    "/segundoexamen-Marcelo-Siles/img/img2.jpg": "726c3c3f74fffa2b409bad6273984afed9f99883",
+    "/segundoexamen-Marcelo-Siles/img/img3.jpg": "4d3f286878d89baf69049967a8612abd08bbce19",
+    "/segundoexamen-Marcelo-Siles/index.html": "1ae8ed669c01cb8b6aa525e8ba401f6a36382b7c",
+    "/segundoexamen-Marcelo-Siles/main-T3ADDX2H.js": "cc746249d9b542263594ee10ed63c2e6a98b9471",
+    "/segundoexamen-Marcelo-Siles/manifest.webmanifest": "cdd05d8e7505ad3460d4e545caa0a61a8dee8ec3",
+    "/segundoexamen-Marcelo-Siles/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/segundoexamen-Marcelo-Siles/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
